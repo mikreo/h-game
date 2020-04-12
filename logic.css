@@ -1,3 +1,8 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
 #trueOrFalse {
     font-size: 5vmax;
     color: rgb(221, 88, 221);
