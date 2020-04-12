@@ -14,6 +14,7 @@ let tOrF = document.getElementById("trueOrFalse");
 function loop() {
     if (challenges.ch1) {
         tOrF.innerHTML = "True";
+        document.getElementById("ch1p").attributes = "";
     }
 };
 
