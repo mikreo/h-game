@@ -3,10 +3,10 @@ let challenges = {
     "log1":"Why is this here?",
     "ch2a":"",
     "ch2b":"",
-    "log2":"What...? Ok, Greg must've done this."
+    "log2":"What...? Ok, but who did this?"
 };
 
-// Wait.. that was JS! An object! If you see this... keep going. Use your tools.
+// Wait. that was JS! An object! If you see this... keep going. Use your tools.
 
 let cha1 = document.getElementById("cha1");
 let tOrF = document.getElementById("trueOrFalse");
