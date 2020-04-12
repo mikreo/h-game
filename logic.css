@@ -11,3 +11,7 @@
 #ch1 h1 {
     text-align: center;
 }
+
+#ch1p {
+    visibility: hidden;
+}
