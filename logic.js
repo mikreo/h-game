@@ -18,8 +18,8 @@ function loop() {
     cha2.style.visibility = "visible";
   }
 
-  if (btoa(challenges.ch2a) == challenges.ch2b) {
-    //Btoa. never heard of it. there isn't even an function definition. if you know what this is please do what you need to do.
+  if (atob(challenges.ch2a) == challenges.ch2b) {
+    //Atob. never heard of it. there isn't even an function definition. if you know what this is please do what you need to do.
     document.getElementById("correct2").innerHTML = "Correct";
     document.getElementById("ch2p").style.visibility = "visible";
   }
