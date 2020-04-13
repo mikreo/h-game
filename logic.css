@@ -1,22 +1,22 @@
 * {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Roboto, Helvetica, Arial,
-    sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Roboto, Helvetica, Arial,
+        sans-serif;
 }
 
 .complete {
-  font-size: 6vmax;
-  color: cadetblue;
+    font-size: 6vmax;
+    color: cadetblue;
 }
 
 .var {
-  font-size: 6vmax;
-  color: rgb(43, 43, 214);
+    font-size: 6vmax;
+    color: rgb(43, 43, 214);
 }
 
 .hidden {
-  visibility: hidden;
+    visibility: hidden;
 }
 
 .container {
-  text-align: center;
+    text-align: center;
 }
